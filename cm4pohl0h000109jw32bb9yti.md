@@ -1,8 +1,9 @@
 ---
-title: "Understanding Activation Function (Part-1)"
+title: "Introduction to Activation Functions: A Beginner's Guide (Part 1)"
 datePublished: Sun Dec 15 2024 14:05:25 GMT+0000 (Coordinated Universal Time)
 cuid: cm4pohl0h000109jw32bb9yti
-slug: understanding-activation-function-part-1
+slug: introduction-to-activation-functions-a-beginners-guide-part-1
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734271701178/7581bd37-c264-4f20-82a6-5108e3bcc5c0.jpeg
 tags: data-science, machine-learning, neural-networks, deep-learning, activation-function
 
 ---
