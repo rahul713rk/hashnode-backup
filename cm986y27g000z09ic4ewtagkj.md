@@ -9,8 +9,10 @@ tags: lstm, gru, gated-recurrent-unit, lstm-long-short-term-memory
 
 ## ☟ Here are some good articles on this topics
 
-* ### ☛ [Long Short Term Memory](https://www.geeksforgeeks.org/deep-learning-introduction-to-long-short-term-memory/)
-    
-* ### ☛ [Gated Recurrent Unit (GRU)](https://www.geeksforgeeks.org/gated-recurrent-unit-networks/)
-    
-* ### ☛ [CODE : LSTM Notebook](https://www.kaggle.com/code/carlmcbrideellis/lstm-time-series-prediction-sine-wave-example)
+### ☛ [Long Short Term Memory - 1](https://www.geeksforgeeks.org/long-short-term-memory-networks-explanation/?ref=asr1)
+
+### ☛ [Long Short Term Memory -2](https://www.geeksforgeeks.org/deep-learning-introduction-to-long-short-term-memory/)
+
+### ☛ [Gated Recurrent Unit (GRU)](https://www.geeksforgeeks.org/gated-recurrent-unit-networks/)
+
+### ☛ [CODE : LSTM Notebook](https://www.kaggle.com/code/carlmcbrideellis/lstm-time-series-prediction-sine-wave-example)
